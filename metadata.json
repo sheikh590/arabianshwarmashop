@@ -1,0 +1,8 @@
+{
+  "name": "Arabian Shawarma ",
+  "description": "Enjoy delicious chicken shawarma, sandwiches, zinger platters and flavorful meals at Arabian Shawarma in Chah Miran, Lahore. Order online or call us today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
